@@ -1,0 +1,4 @@
+interface:
+  display_name: "腹肌86 · 公众号双封面"
+  short_description: "先生成横版再改排方版，精确拼合双封面，支持多风格模板与上次选择记录"
+  default_prompt: "使用 $fuji86-gzh-dual-cover，按我的主题生成公众号双封面，先确认是否替换上次风格。"
